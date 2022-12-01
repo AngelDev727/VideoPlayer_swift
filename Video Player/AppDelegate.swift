@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Video Player
 //
-//  Created by yrm on 5/3/20.
+//  Created by Angel Dev on 5/3/20.
 //  Copyright © 2020 erica. All rights reserved.
 //
 
